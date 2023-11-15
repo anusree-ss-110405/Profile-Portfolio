@@ -1,0 +1,35 @@
+body {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    text-align: center;
+    margin: 0;
+  
+    background-color:lightgreen;
+    color: indigo;
+  
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  img {
+    max-width: 100%;
+  }
+  
+  ul {
+    list-style-position: inside;
+  }
+  
+  footer {
+    width: 100%;
+    border-top: 1px solid darkviolet;
+    padding: 15px;
+  }
+  
+  h1{
+    color: indigo;
+    font-size :50px;
+  }
+  h2 {
+    color:royalblue;
+    font-size: 30px;
+  }
